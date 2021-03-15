@@ -41,7 +41,10 @@ thermometers = {
     'a4c13885878e': 'garage',
     'a4c13884348e': 'garage bathroom',
     'a4c138863d06': 'basement',
-    'a4c138946fa0': 'upstairs'
+    'a4c138946fa0': 'upstairs',
+    'a4c138dbbcaa': 'shed',
+    'a4c138acbbef': 'compost-right',
+    'a4c138493418': 'compost-left',
 }
 # Use 0 for hci0
 dev_id = 0
