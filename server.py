@@ -45,6 +45,7 @@ thermometers = {
     'a4c138dbbcaa': 'shed',
     'a4c138acbbef': 'compost-right',
     'a4c138493418': 'compost-left',
+    'a4c138d1bea0': 'compost-legacy',
 }
 # Use 0 for hci0
 dev_id = 0
